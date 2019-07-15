@@ -2,3 +2,4 @@
 write somethin
 to test
 new thing
+Creating a new branch is quick.
